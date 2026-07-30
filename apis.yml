@@ -1,4 +1,16 @@
 aid: minecraft-server-status
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/minecraft-server-status.png
 name: Minecraft Server Status
 description: "API to get Information about a Minecraft Server"
 url: https://api.mcsrvstat.us
