@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/minecraft-
 name: Minecraft Server Status
 description: "API to get Information about a Minecraft Server"
 url: https://api.mcsrvstat.us
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
